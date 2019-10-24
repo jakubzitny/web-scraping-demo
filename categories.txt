@@ -1,0 +1,15 @@
+Aggregate and synthesize information
+Understand mechanisms of disease
+Establish biomarkers
+Generate data and models
+Repurpose existing drugs
+Generate novel drug candidates
+Validate and optimize drug candidates
+Design drugs
+Design preclinical experiments
+Run preclinical experiments
+Design clinical trials
+Recruit for clinical trials
+Optimize clinical trials
+Publish data
+Analyze real world evidence
